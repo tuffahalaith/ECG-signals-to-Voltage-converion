@@ -27,6 +27,3 @@ In this example, a scaling factor of 10 to represent a 0-10V range.
 Results:
 ![2](https://github.com/user-attachments/assets/13038a29-199f-443b-a897-18cb53b7858b)
 
-Scheme scenario
-![image](https://github.com/user-attachments/assets/92e2d494-8a3b-4cc0-b4de-00392902d683)
-
